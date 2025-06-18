@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/quinn-lima/gokogiri/xml"
-	"github.com/jbowtie/ratago/xslt"
+	"github.com/quinn-lima/ratago/xslt"
 	"os"
 )
 
