@@ -1,7 +1,7 @@
 package xslt
 
 import (
-	"github.com/jbowtie/gokogiri/xml"
+	"github.com/quinn-lima/gokogiri/xml"
 	"io/ioutil"
 )
 
